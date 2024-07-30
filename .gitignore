@@ -20,3 +20,11 @@
 # Go workspace file
 go.work
 go.work.sum
+
+tmp
+
+.env
+
+# Remove for template
+go.mod
+go.sum
